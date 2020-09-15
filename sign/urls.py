@@ -17,7 +17,7 @@ from django.contrib import admin
 from django.urls import path
 from signin import views
 
-
+handler500 = views.handler500 #in some code: handler500 = myapp.views.handler500 #here maybe myapp = signin , i think so.
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('signin', views.si, name = 'signup'),
