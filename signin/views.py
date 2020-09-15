@@ -140,3 +140,5 @@ def edit(request,temp):
     lst.append(l)
     dict = {'edit': lst, 'edit1': l1}
     return render(request, 'mainfileedit.html', dict)
+def handler500(request):
+    return render(request, '500.html', status=500)
