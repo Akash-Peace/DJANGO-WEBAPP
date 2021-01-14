@@ -1,8 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://friender.pythonanywhere.com">
-    <img src="https://icon-library.net//images/friendship-icon-png/friendship-icon-png-28.jpg" alt="Logo" width="150" height="150">
-  </a>
+  <img src="https://icon-library.net//images/friendship-icon-png/friendship-icon-png-28.jpg" alt="Logo" width="150" height="150">
   <h3 align="center">FRIENDER</h3>
   <p align="center">
     A Django Website
@@ -12,9 +10,9 @@
     <br />
     <a href="https://friender.pythonanywhere.com/">View Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Akash-Peace/DJANGO-WEBSITE/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Akash-Peace/DJANGO-WEBSITE/issues">Request Feature</a>
   </p>
 </p>
 
