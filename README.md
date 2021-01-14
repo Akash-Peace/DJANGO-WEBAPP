@@ -1,19 +1,16 @@
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://friender.pythonanywhere.com">
     <img src="https://icon-library.net//images/friendship-icon-png/friendship-icon-png-28.jpg" alt="Logo" width="150" height="150">
   </a>
-  <div class="text-red">
-    <h3 align="center" >FRIENDER</h3>
-  </div>
+  <h3 align="center">FRIENDER</h3>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Django Website
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://www.djangoproject.com/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://friender.pythonanywhere.com/">View Website</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
