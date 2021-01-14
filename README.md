@@ -4,9 +4,9 @@
   <a href="https://friender.pythonanywhere.com">
     <img src="https://icon-library.net//images/friendship-icon-png/friendship-icon-png-28.jpg" alt="Logo" width="150" height="150">
   </a>
-
-  <h3 align="center" class="text-purple">FRIENDER</h3>
-
+  <div class="text-red">
+    <h3 align="center" >FRIENDER</h3>
+  </div>
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
