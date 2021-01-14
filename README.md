@@ -3,8 +3,8 @@
   <img src="https://icon-library.net//images/friendship-icon-png/friendship-icon-png-28.jpg" alt="Logo" width="150" height="150">
   <h3 align="center">FRIENDER</h3>
   <p align="center">
-    <br />
     <a href="https://www.djangoproject.com/"><strong>A Django Website</strong></a>
+    <br />
     <br />
     <a href="https://friender.pythonanywhere.com/">View Website</a>
     ·
