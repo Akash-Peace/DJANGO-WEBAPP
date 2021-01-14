@@ -5,7 +5,7 @@
     <img src="https://icon-library.net//images/friendship-icon-png/friendship-icon-png-28.jpg" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center" style="color:yellow;">FRIENDER</h3>
+  <h3 align="center" class="text-purple">FRIENDER</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
