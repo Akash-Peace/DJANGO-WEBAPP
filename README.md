@@ -6,7 +6,6 @@
     <br />
     <a href="https://www.djangoproject.com/"><strong>A Django Website</strong></a>
     <br />
-    <br />
     <a href="https://friender.pythonanywhere.com/">View Website</a>
     ·
     <a href="https://github.com/Akash-Peace/DJANGO-WEBSITE/issues">Report Bug</a>
