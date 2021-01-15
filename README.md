@@ -8,9 +8,9 @@
     <br />
     <a href="https://friender.pythonanywhere.com/">View Website</a>
     ·
-    <a href="https://github.com/Akash-Peace/DJANGO-WEBSITE/issues">Report Bug</a>
+    <a href="https://github.com/Akash-Peace/DJANGO-WEBAPP/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Akash-Peace/DJANGO-WEBSITE/issues">Request Feature</a>
+    <a href="https://github.com/Akash-Peace/DJANGO-WEBAPP/issues">Request Feature</a>
   </p>
 </p>
 
