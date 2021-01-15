@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <img src="https://icon-library.net//images/friends-icon-png/friends-icon-png-5.jpg" alt="Logo" width="150" height="150">
-  <!--<img src="https://icon-library.net//images/friendship-icon-png/friendship-icon-png-28.jpg" alt="Logo" width="150" height="150">-->
   <h3 align="center">FRIENDER</h3>
   <p align="center">
     <a href="https://www.djangoproject.com/"><strong>A Django Web Application</strong></a>
