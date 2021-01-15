@@ -47,6 +47,7 @@ Friender project objective is to find friends based on your favourites of whoeve
 ## Supportives
 
 * [Sqlite](https://www.sqlite.org/index.html)
+* [Bootstrap](https://getbootstrap.com/)
 * [Pythonanywhere](https://www.pythonanywhere.com/)
 
 
