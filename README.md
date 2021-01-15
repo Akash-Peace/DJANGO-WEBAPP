@@ -23,6 +23,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
+    <li><a href="#supportives">Supportives</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -42,6 +43,11 @@ Friender project objective is to find friends based on your favourites of whoeve
 * Html
 * Css
 
+
+## Supportives
+
+* [Sqlite](https://www.sqlite.org/index.html)
+* [Pythonanywhere](https://www.pythonanywhere.com/)
 
 
 <!-- USAGE EXAMPLES -->
