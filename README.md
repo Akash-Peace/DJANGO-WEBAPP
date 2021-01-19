@@ -59,7 +59,7 @@ Usage of this project is to refresh your view and favorites with that you can ex
 
 ## Screenshots
 
-See [Screenshots](https://github.com/Akash-Peace/DJANGO-WEBAPP/tree/master/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/DJANGO-WEBAPP/tree/master/Screenshots) here.
 
 
 <!-- LICENSE -->
