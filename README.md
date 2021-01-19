@@ -24,6 +24,7 @@
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#powered-by">Powered by</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -56,6 +57,9 @@ Friender project objective is to find friends based on your favorites of whoever
 Usage of this project is to refresh your view and favorites with that you can explore new friends and make a good bond with them.
 
 
+## Screenshots
+
+See [Screenshots](https://github.com/Akash-Peace/DJANGO-WEBAPP/tree/master/Screenshots) here.
 
 
 <!-- LICENSE -->
