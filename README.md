@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Friender project objective is to find friends based on your favorites of whoever registered on friender website. As it is mentioned, I decided to present this project as a web application, particularly with [Django framework](https://www.djangoproject.com/). Your data is private and secure as it is hosted in [pythonanywhere](https://www.pythonanywhere.com/). This project is licensed by [MIT](https://github.com/Akash-Peace/DJANGO-WEBSITE/blob/master/LICENSE) and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
+Friender project objective is to find friends based on your favorites of whoever registered on friender website. As mentioned, I decided to present this project as a web application, particularly with the [Django framework](https://www.djangoproject.com/). Your data is private and secure as it is hosted in [pythonanywhere](https://www.pythonanywhere.com/). [MIT](https://github.com/Akash-Peace/DJANGO-WEBSITE/blob/master/LICENSE) licenses this project, and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
 
 ## Built With
 
