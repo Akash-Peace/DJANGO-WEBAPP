@@ -68,11 +68,22 @@ View [Screenshots](https://github.com/Akash-Peace/DJANGO-WEBAPP/tree/master/Scre
 Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/DJANGO-WEBSITE/blob/master/LICENSE) for more information.
 
 
+## My System info
+
+**OS:** 
+
 
 <!-- CONTACT -->
 ## Contact
 
-<strong>Hi, I'm Akash.A, Computer Science Engineer.</strong>
+<strong>
+  Akash.A,  
+  Rajalakshmi Engineering College,
+  Computer Science Engineer,
+  akashcse2000@gmail.com,
+  8608550403,
+  Chennai.
+</strong>
 
 ![GitHub metrics](https://metrics.lecoq.io/Akash-Peace)  
 
