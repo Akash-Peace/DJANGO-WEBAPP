@@ -22,11 +22,11 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#powered-by">Powered by</a></li>
+    <li><a href="#powered-by">Powered By</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#my-system-spec">License</a></li>
+    <li><a href="#my-system-spec">My System Spec</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
