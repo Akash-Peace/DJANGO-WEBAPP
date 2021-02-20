@@ -70,22 +70,22 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/
 
 ## My System spec
 
-**OS:** [Ubuntu](https://ubuntu.com/) (Debian based)
-**Model:** Acer Aspire 5 A515-51G 
-**Processor:** Intel i5 7th gen
-**Ram:** DDR4 8gb
-**Disk:** HDD 100gb
+**OS:** [Ubuntu](https://ubuntu.com/) (Debian based)\
+**Model:** Acer Aspire 5 A515-51G\
+**Processor:** Intel i5 7th gen\
+**Ram:** DDR4 8gb\
+**Disk:** HDD 100gb\
 
 
 <!-- CONTACT -->
 ## Contact
 
 <strong>
-  Akash.A,/  
-  Rajalakshmi Engineering College,/
-  Computer Science Engineer,/
-  akashcse2000@gmail.com,/
-  8608550403,/
+  Akash.A,\  
+  Rajalakshmi Engineering College,\
+  Computer Science Engineer,\
+  akashcse2000@gmail.com,\
+  8608550403,\
   Chennai.
 </strong>
 
