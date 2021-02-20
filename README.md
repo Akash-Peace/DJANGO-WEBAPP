@@ -45,7 +45,7 @@ Friender project objective is to find friends based on your favorites of whoever
 * Css
 
 
-## Powered by
+## Powered By
 
 * [Sqlite](https://www.sqlite.org/index.html)
 * [Bootstrap](https://getbootstrap.com/)
@@ -69,7 +69,7 @@ View [Screenshots](https://github.com/Akash-Peace/DJANGO-WEBAPP/tree/master/Scre
 Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/DJANGO-WEBSITE/blob/master/LICENSE) for more information.
 
 
-## My System spec
+## My System Spec
 
 **OS:** [Ubuntu](https://ubuntu.com/)\
 **Model:** Acer Aspire 5 A515-51G\
