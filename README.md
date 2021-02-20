@@ -70,7 +70,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/
 
 ## My System spec
 
-**OS:** [Ubuntu](https://ubuntu.com/) (Debian based)\
+**OS:** [Ubuntu](https://ubuntu.com/)\
 **Model:** Acer Aspire 5 A515-51G\
 **Processor:** Intel i5 7th gen\
 **Ram:** DDR4 8gb\
@@ -80,7 +80,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/
 <!-- CONTACT -->
 ## Contact
 
-Akash.A,\  
+Akash.A,\
 Rajalakshmi Engineering College,\
 Computer Science Engineer,\
 akashcse2000@gmail.com,\
