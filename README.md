@@ -41,6 +41,7 @@ Friender project objective is to find friends based on your favorites of whoever
 ## Built With
 
 * [Django](https://www.djangoproject.com/)
+* [Python](https://www.python.org/)
 * Html
 * Css
 
